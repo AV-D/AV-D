@@ -23,6 +23,11 @@ Domain: Document Analysis and Information Extraction | Tech Stack: Python, Strea
 
 Domain: Sentiment Analysis and Business Intelligence | Tech Stack: Google Cloud Platform (Dataproc, BigQuery, Pub/Sub, Cloud Storage, Cloud Functions), Apache Spark MLlib, Python (SparkSQL, Dataframes, Datasets) | Duration: Aug 2023 - Dec 2023
 
+6. **Application Tracking System using Gemini Pro**
+Domain: Humar Resources (HR) and Recruitment | Tech Stack: Python, Streamlit, Google Generative AI (Gemini Pro Vision) | Duration: January 2024
+
+7. 
+
 <!---
 AV-D/AV-D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

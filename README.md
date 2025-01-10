@@ -1,32 +1,41 @@
-- 👋 Hi there! I'm Anbu Valluvan, a data analytics enthusiast currently pursuing a Master's degree in Data Analytics.
-      I'm on a journey to leverage cutting-edge technologies to extract meaningful insights. Here's a glimpse into my academic and project journey:
-- 🌱 I’m currently pursuing Master's in Data Analytics (Ongoing) learning Database Systems for Analytics, Programming for Data Analytics, Mathematical Methods for Data Analytics, Machine Learning, Deep Learning, Data Mining, Big Data Technologies & Applications, Data Analyst Process, Data Visualization.
-- 👀 I am current working on following projects 
-# Projects 
-1. **TinyPulse+: Edge-Based Blood Pressure Monitoring**
+**AI & Data Science Portfolio - Enterprise Solutions Architect**
+_With a decade of banking experience and advanced expertise in AI/ML, I specialize in developing enterprise-scale intelligent systems. My portfolio demonstrates the intersection of deep technical knowledge and practical business applications, focusing on production-ready solutions in computer vision, natural language processing, and edge computing._
 
-Domain: Healthcare Tech | Tech Stack: Python (TensorFlow, Keras) | Duration: Aug 2023 - Present
+_**Core Competencies**_
+**Technical Expertise**
+* Deep Learning & Neural Architectures
+* Edge AI & Model Optimization
+* Natural Language Processing
+* Computer Vision & Video Analytics
+* Big Data Processing & Analytics
 
-2. **Cloud Analytics for Data Analyst Job Market Insights**
+**Enterprise Implementation**
+* Production System Architecture
+* Model Deployment & Scaling
+* Performance Optimization
+* Cloud Infrastructure (GCP, AWS, Azure)
 
-Domain: Data Analytics | Tech Stack: GCP, Tableau, Apache Airflow, SQL | Duration: Feb 2023 - May 2023
+_**Featured Projects**_
 
-3. **Enhancing Network Anomaly Detection: A Machine Learning Approach**
+* **Edge AI Solutions**
+The Blood Pressure Monitoring system showcases my expertise in deploying AI at the edge, achieving medical-grade accuracy while maintaining minimal resource footprint. The AttentiveBPNet architecture demonstrates innovative approaches to real-world healthcare challenges.
 
-Domain: Computer Network Security | Tech Stack: Python (Pandas, Scikit-learn) | Duration: Aug 2023 - Dec 2023
+* **Natural Language Processing**
+My NLP portfolio includes advanced implementations ranging from toxic comment classification to machine translation systems. The RAG system with Mistral 7B highlights expertise in large language models and enterprise-scale document processing.
 
-4. **Multi Language Invoive Extractor : Using Gemini Pro Vision**
+* **Computer Vision**
+The Facial Recognition System for Missing Person Identification exemplifies production-ready computer vision solutions, incorporating multi-tiered detection and real-time processing capabilities essential for critical applications.
 
-Domain: Document Analysis and Information Extraction | Tech Stack: Python, Streamlit, Google Generative AI (Gemini Pro Vision) | Duration: January 2024
+* **Big Data Analytics**
+The Yelp Review Sentiment Analysis pipeline demonstrates comprehensive big data architecture, showcasing real-time processing capabilities and cloud-native implementation.
+Professional Background
 
-5. **Yelp Sentiment Analysis on Google Cloud Platform**
+With 9.2 years at State Bank of India and an advanced degree in Applied Data Science, I bring a unique combination of enterprise experience and technical expertise. My solutions focus on bridging the gap between cutting-edge AI technology and practical business requirements.
 
-Domain: Sentiment Analysis and Business Intelligence | Tech Stack: Google Cloud Platform (Dataproc, BigQuery, Pub/Sub, Cloud Storage, Cloud Functions), Apache Spark MLlib, Python (SparkSQL, Dataframes, Datasets) | Duration: Aug 2023 - Dec 2023
+**My Motto** - 
+_"Life favors the bold – learn or succeed, but never regret"_
 
-6. **Application Tracking System using Gemini Pro**
-Domain: Humar Resources (HR) and Recruitment | Tech Stack: Python, Streamlit, Google Generative AI (Gemini Pro Vision) | Duration: January 2024
-
-7. 
+Feel free to explore my projects and reach out for collaboration opportunities in AI and enterprise solutions development
 
 <!---
 AV-D/AV-D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

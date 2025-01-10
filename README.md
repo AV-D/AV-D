@@ -1,4 +1,5 @@
 **AI & Data Science Portfolio - Enterprise Solutions Architect**
+
 _With a decade of banking experience and advanced expertise in AI/ML, I specialize in developing enterprise-scale intelligent systems. My portfolio demonstrates the intersection of deep technical knowledge and practical business applications, focusing on production-ready solutions in computer vision, natural language processing, and edge computing._
 
 _**Core Competencies**_
